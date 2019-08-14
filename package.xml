@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Products_Sold_Counter_By_Synotive</name>
+    <version>1.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Products Sold Counter is an awesome way to make your customer engage with your store.</summary>
+    <description>Products Sold Counter is an awesome way to make your customer engage with your store.</description>
+    <notes>Products Sold Counter is stable version. We have tested it many different version.</notes>
+    <authors><author><name>Synotive Technologies</name><user>Synotive</user><email>magento@synotive.com</email></author></authors>
+    <date>2015-01-27</date>
+    <time>09:27:02</time>
+    <contents><target name="magecommunity"><dir name="SPL"><dir name="CounterSales"><dir name="Helper"><file name="Data.php" hash="ab669f2479f772cb3755b4f3fd4d6b6f"/></dir><dir name="Model"><file name="Observer.php" hash="e6aa1edb5ed53e3452a343db9fe8e850"/></dir><dir name="etc"><file name="config.xml" hash="a712e76ab0dd071322568b5e9773dc25"/><file name="system.xml" hash="be69c4ccb9e33c535bd32a794a5231af"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="SPL_CounterSales.xml" hash="fe1cd2cf82b1c2f3d88603b2e1c35762"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="countersales.xml" hash="b9a4604d1effc32a98136bebc6436d99"/></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>5.5.0</max></php></required></dependencies>
+</package>

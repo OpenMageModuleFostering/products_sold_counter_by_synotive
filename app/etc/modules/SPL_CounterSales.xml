@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <SPL_CounterSales>
+            <active>true</active>
+            <codePool>community</codePool>
+        </SPL_CounterSales>
+    </modules>
+</config>
