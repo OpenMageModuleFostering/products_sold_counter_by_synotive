@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Products_Sold_Counter_By_Synotive",
+    "name": "OpenMageModuleFostering\/Products_Sold_Counter_By_Synotive",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Products Sold Counter is an awesome way to make your customer engage with your store.",
     "authors": [
-    {
-        "name": "Synotive Technologies",
-        "email": "magento@synotive.com"
-    }
-],
+        {
+            "name": "Synotive Technologies",
+            "email": "magento@synotive.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
